@@ -1,8 +1,8 @@
 ---
-title: No-Cloud Studio — Support
+title: Kilobite — Support
 ---
 
-# No-Cloud Studio
+# Kilobite
 
 Shrink any photo or PDF to an exact upload limit — for visas, passports, exams and portals. Everything happens on your device: nothing is uploaded.
 
@@ -25,7 +25,7 @@ Every built-in preset links to the official government page its numbers were rea
 Open **Profile → Restore Purchases**.
 
 **How do I cancel my subscription?**
-On your iPhone: **Settings → Apple Account → Subscriptions → No-Cloud Studio**.
+On your iPhone: **Settings → Apple Account → Subscriptions → Kilobite**.
 
 **How do I change the app's language?**
 Open **Profile → Language**, choose a language, then close and reopen the app.

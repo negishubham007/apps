@@ -1,9 +1,9 @@
 ---
-title: No-Cloud Studio — Privacy Policy
+title: Kilobite — Privacy Policy
 permalink: /privacy/
 ---
 
-# No-Cloud Studio — Privacy Policy
+# Kilobite — Privacy Policy
 
 Updated: 19 October 2026
 
