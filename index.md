@@ -19,7 +19,7 @@ No. All conversion happens on your iPhone, iPad or Mac. The app works fully offl
 The size limit is too small for the pixel size you asked for. Lower the pixel size, or pick a bigger size target.
 
 **Are the form presets official?**
-Presets marked *Official rules* were checked against the government page shown. Presets marked *check portal* come from published guides — always confirm the current rules on the official portal before you upload.
+Every built-in preset links to the official government page its numbers were read from, with the date it was checked. Rules change (exam notices change every cycle), so confirm on the official page before you upload. For portals that don't publish their numbers, save your own preset from what the portal shows.
 
 **How do I restore my subscription?**
 Open **Profile → Restore Purchases**.
