@@ -25,7 +25,7 @@ Residays adheres to a strict principle: **accuracy is the product**. Unlike othe
 **No.** Residays counts days accurately. It does not decide your tax or visa status. Always export and share your certified report with your qualified tax adviser, accountant, or immigration attorney.
 
 #### How does photo import protect against counting other people's photos?
-Residays filters out screenshots, messaging saves (e.g. WhatsApp/Telegram), and images lacking native Apple camera EXIF tags. Only genuine photos captured with your device's camera are considered. You are always presented with a grouped review screen before anything is added to your counters.
+Residays skips screenshots, images saved from messaging apps (e.g. WhatsApp/Telegram) and any image without camera EXIF data (camera make, model and capture time). Of the rest, only photos from your own cameras — the camera models behind most of your photos — are considered. You are always presented with a grouped review screen before anything is added to your counters.
 
 #### Can I export my data if I cancel Pro?
 **Yes, always.** Your travel history belongs to you. The canonical CSV export is free forever and is never locked behind a paywall.
