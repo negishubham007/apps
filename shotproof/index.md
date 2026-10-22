@@ -38,6 +38,9 @@ When online, Shotproof verifies the real UTC time from public time servers and t
 ### What are Independent Timestamp Certificates (RFC 3161)?
 Shotproof Pro can send a cryptographic SHA-256 fingerprint (hash) of your photo to an independent public Time Stamping Authority (such as DigiCert or Sectigo). The authority signs a certificate proving that your exact photo existed at that precise second. You can verify this certificate independently on any computer using OpenSSL (`openssl ts -verify`).
 
+### Is there a free trial?
+Yes, the yearly plan starts with 1 free month if your Apple Account hasn't used it before; the paywall shows it only when it applies. You are charged when the free month ends unless you cancel at least 24 hours before, in **Settings › Apple Account › Subscriptions**. Shotproof reminds you 2 days before the free month ends (turn this off in **Profile**). The monthly plan has no trial.
+
 ### How do I restore my purchase?
 Go to **Profile → Restore Purchases**. If you previously purchased a subscription with your Apple Account, it will activate immediately.
 
