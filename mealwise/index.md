@@ -19,7 +19,7 @@ They are estimates for a typical supermarket, shown with a likely range, and are
 Diet filters and the "foods to leave out" list follow the ingredients listed in each recipe. They do not cover cross-contamination or product variations. Always check product labels if you have an allergy. Mealwise gives no medical or nutrition advice.
 
 #### Is my data sent anywhere?
-No. Mealwise stores everything on your iPhone. There is no account, no server and no analytics. The App Store privacy disclosure is *Data Not Collected*.
+No. Mealwise stores everything on your iPhone. There is no account, no server and no analytics. If you use the shared household list, its items go through your own iCloud to the people you invite, never to us. The App Store privacy disclosure is *Data Not Collected*.
 
 #### How do I manage or cancel my subscription?
 Subscriptions are managed by Apple: **Settings › Apple Account › Subscriptions › Mealwise**. Cancelling there stops the renewal at the end of the current period; you keep Pro until then.

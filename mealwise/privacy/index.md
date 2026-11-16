@@ -14,25 +14,28 @@ At **Mealwise**, privacy is built into the architecture: the app has no account 
 Mealwise does not collect, transmit, sell or share any personal information, identifiers, diagnostics or usage data. There are no third-party analytics, SDKs or advertising frameworks in the app.
 
 ### 2. On-Device Storage
-Everything the app stores — items, settings, preferences — lives in your own storage on this iPhone and is never uploaded. No server of ours can read it.
+Everything the app stores — items, settings, preferences — lives in your own storage on your device. The Mealwise widgets read the same data on your device. No server of ours can read it.
 
-### 3. Camera
+### 3. Shared household list (optional)
+If you start or join a shared shopping list, its items are stored in iCloud through Apple's CloudKit sharing, in the iCloud account of the person who started it, and are visible only to the people they invite. We have no access to it. Stop sharing or leave the list at any time to remove access.
+
+### 4. Camera
 If you choose to scan a receipt, Mealwise uses the camera to read the total. The photo is read on your device and is not saved or sent anywhere.
 
-### 4. Backups
+### 5. Backups
 The export feature writes a backup file only where you choose to save it (Files, iCloud Drive, another device). We never see that file. An imported file is processed on-device and discarded.
 
-### 5. Purchases & Subscriptions
+### 6. Purchases & Subscriptions
 Payments are handled entirely by Apple. The app only asks Apple whether your subscription is active so it can unlock Pro — purchase amounts, payment methods and Apple Account details never reach us.
 
-### 6. Notifications
-If you allow notifications, they are scheduled locally on your device. No notification contains or sends personal data.
+### 7. Notifications
+If you allow notifications, they are scheduled locally on your device (cooking timers and use-by reminders). No notification contains or sends personal data.
 
-### 7. Links
+### 8. Links
 The app contains links to this site and to the standard Apple terms. Opening them leaves the app and is subject to those sites' policies.
 
-### 8. Changes
+### 9. Changes
 If this policy ever changes, the updated version will be published on this page with a new date.
 
-### 9. Contact
+### 10. Contact
 Questions? Write to **shubhamn910@gmail.com**.
