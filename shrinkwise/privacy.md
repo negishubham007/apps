@@ -4,7 +4,7 @@ title: Shrinkwise — Privacy Policy
 permalink: /shrinkwise/privacy/
 ---
 
-# Privacy Policy — Shrinkwise: Video Compressor
+# Privacy Policy — Shrinkwise: Cleaner & Compress
 
 *Last updated: November 2026*
 

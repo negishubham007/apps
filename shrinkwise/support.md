@@ -4,7 +4,7 @@ title: Shrinkwise — Support & FAQ
 permalink: /shrinkwise/support/
 ---
 
-# Shrinkwise: Video Compressor — Support & FAQ
+# Shrinkwise: Cleaner & Compress — Support & FAQ
 
 Welcome to the official support documentation for Shrinkwise.
 

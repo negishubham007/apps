@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Shrinkwise: Video Compressor — Shrink Videos & Swipe Clean Photos
+title: Shrinkwise: Cleaner & Compress — Shrink Videos & Swipe Clean Photos
 permalink: /shrinkwise/
 ---
 
-# Shrinkwise: Video Compressor
+# Shrinkwise: Cleaner & Compress
 ### Shrink large videos, swipe-clean your camera roll, and free up space
 
 Shrinkwise is an on-device video compressor and swipe cleaner for iPhone and iPad. Compress large videos with the iPhone's hardware video encoder, keeping the date, location, favorites and albums. Then swipe through your camera roll to delete duplicates, similar photos, screenshots and blurry shots, and see exactly how much space you free.
