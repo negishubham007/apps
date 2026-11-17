@@ -1,28 +1,40 @@
 ---
 layout: default
-title: Shrinkwise Privacy Policy
+title: Shrinkwise — Privacy Policy
 permalink: /shrinkwise/privacy/
 ---
-# Shrinkwise Privacy Policy
 
-Updated 19 October 2026.
+# Privacy Policy — Shrinkwise: Video Compressor
 
-Shrinkwise processes videos on your device. We do not receive your videos, location, album contents, or usage history. There are no accounts, ads, analytics, or tracking services.
+*Last updated: November 2026*
 
-## Photos and iCloud
+At **Shrinkwise**, we believe your photos, personal videos, and family memories should remain completely private.
 
-Photos access is used to find videos and save smaller copies. Limited access works with the items you select. Dates, locations, favorites, hidden status and album membership are retained in replacement copies. If iCloud Photos is enabled, Apple may download originals and sync replacement copies according to your Photos settings. Shrinkwise does not operate an upload service.
+---
 
-After verification, smaller copies are saved first. Original removal requires your confirmation. Originals then remain in Recently Deleted for up to 30 days unless you permanently remove them sooner. Permanent removal is managed in Photos, not by Shrinkwise.
+### 1. 100% On-Device Processing
+- All photo library scanning, duplicate detection, image hashing, Vision feature-print analysis, blur detection, and video transcoding run entirely on your device using Apple Vision and Apple AVFoundation.
+- **Photos and videos are never uploaded to remote servers.**
+- Shrinkwise has no server and makes no network connection of its own. An internet connection is used only by Apple, for purchases and when iCloud downloads a video you asked Shrinkwise to shrink.
 
-## Local data
+### 2. Photos Library Access
+- Shrinkwise requests photo library access strictly to identify storage consumers (duplicates, similar photos, blurry shots, screenshots, large videos), convert Live Photos to stills, compress videos, and remove unwanted originals upon your explicit confirmation.
+- Original files are only moved to "Recently Deleted" when you explicitly tap Confirm.
 
-The app stores settings, temporary videos, approximate sizes and a recovery journal on your device. The journal contains Photos asset identifiers, sizes and job status. Removing the app removes its app data; videos saved to Photos remain.
+### 3. Contacts Access (optional)
+- Shrinkwise can look for duplicate and empty contacts so you can merge or delete them. This runs on your device, and your contacts are never uploaded.
 
-## Purchases
+### 4. Zero Ads & Zero Tracking
+- Shrinkwise contains **zero advertising SDKs** and zero third-party telemetry tools (`NSPrivacyTracking = false`).
+- Our App Store privacy label is **Data Not Collected**.
 
-Apple handles subscriptions and payments. Shrinkwise reads verified purchase entitlements to unlock Pro. Purchasing and restoring purchases require an internet connection.
+### 5. Subscriptions & Payments
+- Shrinkwise Pro subscriptions (monthly and yearly plans) are processed directly by Apple StoreKit 2 through your Apple ID.
+- We never collect or store your billing credentials or payment details. Shrinkwise Pro does not offer introductory free trials.
 
-## Contact
+### 6. Contact
+For privacy questions:
+- **Developer:** Shubham Negi
+- **Email:** [shubhamn910@gmail.com](mailto:shubhamn910@gmail.com)
 
-[shubhamn910@gmail.com](mailto:shubhamn910@gmail.com)
+[Back to Shrinkwise Home](/apps/shrinkwise/) · [Support & FAQ](/apps/shrinkwise/support/)
