@@ -8,10 +8,12 @@ permalink: /livingdawn/privacy/
 
 _Last updated: 16 November 2026_
 
-Living Dawn does not collect your data. There is no account, no server, no advertising and no analytics.
+Living Dawn does not collect your data. There is no account, no server, no advertising and no analytics. Nothing is sent to the developer.
 
 ### 1. What stays on your iPhone
-Your alarms, settings, history, streak, sounds you added and your target photo are stored only on your iPhone, in the app's own storage. A backup file exists only if you export one, and you choose where it goes. Deleting the app deletes this data (and iOS removes the app's alarms).
+Your alarms, settings, history, streak, sounds you added and your target photo are stored on your iPhone, in the app's own storage. A backup file exists only if you export one, and you choose where it goes. Deleting the app deletes this data (and iOS removes the app's alarms).
+
+**Optional iCloud sync (Pro, off by default).** If you turn it on in Settings, your alarms, settings, history and streak are also kept in your own iCloud account, using Apple's iCloud key-value storage, so your devices signed in to the same Apple Account can share them. This data goes to your iCloud, never to us: Living Dawn has no server and the developer cannot see or read it. Recorded sounds and your target photo are not synced. Turning the switch off stops syncing; **Delete All Data** in Settings also removes the copy in your iCloud. Apple's iCloud terms and privacy policy apply to that storage.
 
 ### 2. What the app asks permission for, and why
 Every permission is asked at the moment you use the feature, and each has an alternative.
@@ -20,7 +22,7 @@ Every permission is asked at the moment you use the feature, and each has an alt
 - **Microphone and speech recognition:** to hear your spoken answers and to record your own alarm sound. Speech is always recognised on the iPhone; if your language is not supported on the device, the task asks you to type instead. Audio is not stored; a recorded alarm sound stays on the iPhone.
 - **Motion and fitness:** to count steps and shakes. The data stays on the iPhone.
 - **Photos:** only if you pick a photo of an object as your target; the picture stays on the iPhone.
-- **Location (while using):** once, to calculate the real sunrise time. The place is rounded to 0.1 degree and stored on the iPhone. Living Dawn never tracks you in the background. You can pick a city instead.
+- **Location (while using):** once, to calculate the real sunrise time. The place is rounded to 0.1 degree and stored on the iPhone. Living Dawn never tracks you in the background. You can search a built-in list of large cities instead; it works offline.
 - **Screen Time (Family Controls):** only if you turn on app blocking. The apps you choose are held by iOS as opaque tokens; Living Dawn cannot see which apps they are.
 - **Notifications:** for the trial reminder and the optional evening note. No marketing.
 
