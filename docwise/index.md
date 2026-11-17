@@ -57,6 +57,9 @@ Docwise is the paperwork app for iPhone and iPad. Sign a PDF, fill in a form, sc
 - Split a PDF by range, by selected pages, or into single pages.
 - Redact: draw boxes or search for a word. Redacted pages are re-rendered, so the covered text cannot be copied.
 
+### Fax — coming soon
+Send a signed PDF straight to a fax machine in the United States or Canada. This feature is not in the app yet.
+
 ### Open it from anywhere
 - Share a PDF to Docwise from Mail, Files or Safari to sign or shrink it.
 - Open PDFs and images from Files, or drag and drop them on iPad.
