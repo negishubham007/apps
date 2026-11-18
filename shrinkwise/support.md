@@ -32,7 +32,7 @@ Subscriptions are managed directly through Apple:
 2. Tap your **Apple Account** name at the top.
 3. Tap **Subscriptions > Shrinkwise**.
 4. Tap **Cancel Subscription**.
-Access continues until the end of the current billing cycle. Shrinkwise Pro is billed on monthly or yearly plans without introductory free trials.
+Access continues until the end of the current billing cycle. Shrinkwise Pro is billed on monthly or yearly plans; the yearly plan includes a 7-day free trial for eligible new subscribers (the monthly plan has none). After the trial it renews automatically; cancel any time in Settings › Apple Account › Subscriptions at least 24 hours before it ends.
 
 ### How does Swipe Review work?
 Swipe Review lets you clean your photo library one photo at a time. Swipe a photo left to stage it for removal, or swipe right to keep it. Staged photos remain in a pending queue until you tap Confirm Deletion, and you can undo any accidental swipe at any time.

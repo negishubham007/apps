@@ -81,7 +81,7 @@ Every Live Photo stores both a high-resolution still image and a hidden 3-second
 | Overnight compression while charging | — | Yes |
 | Bulk iCloud downloads | — | Yes |
 
-*Shrinkwise Pro is available as a monthly or yearly subscription with no free trial. The free tier is the trial. Cancel anytime in Apple Settings.*
+*Shrinkwise Pro is available as a monthly or yearly subscription with a 7-day free trial on the yearly plan for eligible new subscribers (none on monthly). The free tier stays free. The subscription renews automatically; cancel any time in Apple Settings.*
 
 ---
 

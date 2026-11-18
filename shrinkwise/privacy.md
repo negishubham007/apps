@@ -30,7 +30,7 @@ At **Shrinkwise**, we believe your photos, personal videos, and family memories 
 
 ### 5. Subscriptions & Payments
 - Shrinkwise Pro subscriptions (monthly and yearly plans) are processed directly by Apple StoreKit 2 through your Apple ID.
-- We never collect or store your billing credentials or payment details. Shrinkwise Pro does not offer introductory free trials.
+- We never collect or store your billing credentials or payment details. The yearly Shrinkwise Pro plan includes a 7-day free trial for eligible new subscribers; Apple handles the trial and billing.
 
 ### 6. Contact
 For privacy questions:
