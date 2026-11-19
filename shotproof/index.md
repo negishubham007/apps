@@ -1,47 +1,95 @@
 ---
-title: Shotproof — Support & FAQ
+layout: default
+title: Shotproof — Timestamp GPS Job-Site Camera & Client PDF Reports
+permalink: /shotproof/
 ---
 
-# Shotproof
+# Shotproof: Work GPS Camera
+### Timestamp Photo Proof & Client PDF Reports
 
-The work-photo camera that never loses a shot. Accurate address on every photo, zero ads, one-tap job reports.
+Shotproof is the tamper-evident job-site camera built for general contractors, construction trades, surveyors, utility workers, and field inspectors.
 
-## Support
+Capture proof photos with permanent GPS coordinates, verified street addresses, compass heading, project tags, and timestamps burned directly into every frame.
 
-Questions, feedback, or support requests: **[shubhamn910@gmail.com](mailto:shubhamn910@gmail.com)**
+<p style="margin: 24px 0;">
+  <a href="#app-store" style="display: inline-block; background: #111; color: #fff; text-decoration: none; padding: 13px 26px; border-radius: 980px; font-weight: 600; font-size: 16px; border: 1px solid #333; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
+    Download on the App Store ↗
+  </a>
+  <span style="display: block; font-size: 13px; color: #888; margin-top: 8px;">Available on iOS 17+. Link will activate upon App Store release.</span>
+</p>
+
+<div style="display: flex; gap: 14px; overflow-x: auto; padding: 16px 0; margin: 24px 0;">
+  <img src="screenshot-1.png" alt="Shotproof Timestamped GPS Camera" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+  <img src="screenshot-2.png" alt="Shotproof Job-Site Organization" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+  <img src="screenshot-3.png" alt="Shotproof Client PDF Reports" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+</div>
+
+Built for high-stakes field compliance: atomic flash memory writes prevent lost photos, and clock-tampering detection protects your proof.
+
+---
+
+## Key Features
+
+### Crash-Proof Local Capture Architecture
+Field photos must never be lost. When inspecting foundations, utility trenches, or demolition work, unexpected app crashes or dead batteries cannot wipe evidence:
+- **Atomic Disk Writes:** Shotproof commits the raw, full-resolution camera sensor capture to disk before rendering the stamp overlay
+- **Fail-Safe Integrity:** Even if your iPhone shuts down mid-capture, the raw photo is preserved and recovered on next launch
+
+### Tamper-Evident Geostamps & Coordinates
+- **High-Precision Watermarking:** Burns latitude, longitude, altitude, compass bearing, timestamp, and address directly into the image pixels
+- **Network Clock Verification:** Cross-checks your iPhone's clock against official network time servers (NTP) to detect and flag manual device clock adjustments
+- **Cryptographic Hashing:** Computes a SHA-256 integrity checksum for each shot
+
+### Offline Geocoding & Verified Job Sites
+- **100% Offline Capability:** GPS coordinates, elevation, and compass heading capture seamlessly in rural or subterranean environments
+- **Background Address Queue:** When connectivity resumes, reverse geocoding resolves street addresses automatically
+- **Verified Job Sites:** Pin specific project boundaries (within 150m) so all photos taken within the perimeter consistently use your official contract address
+
+### Professional Client PDF Reports
+- **One-Tap Inspection Sheets:** Export formatted PDF photo sheets featuring photo grids, satellite map thumbnails, timestamp metadata, and inspector notes
+- **Company Branding:** Burn your company name, logo, and license numbers onto photo watermarks and report headers
+- **Excel & CSV Export:** Download complete photo registers for corporate project management archives
+
+---
+
+## Free vs Shotproof Pro
+
+| Feature | Shotproof Free | Shotproof Pro |
+|---|:---:|:---:|
+| Photo capture & local storage | Unlimited | Unlimited |
+| GPS coordinates, timestamp & address watermarking | Yes | Yes |
+| Offline reverse geocoding queue | Yes | Yes |
+| Crash-proof atomic write pipeline | Yes | Yes |
+| Unlimited PDF job reports with map snapshots | — | Yes |
+| Company logo watermarking on photos & reports | — | Yes |
+| Unlimited Job Sites and custom project tags | — | Yes |
+| CSV / Excel photo register export | — | Yes |
+| Independent RFC 3161 timestamp certificates | — | Yes |
+
+*Shotproof Pro is available as an annual subscription with a 1-month free trial or as a monthly plan.*
 
 ---
 
 ## Frequently Asked Questions
 
-### Why does Shotproof save photos first before stamping?
-Traditional camera apps can crash during stamping or image processing, losing your proof. Shotproof writes your untouched original photo atomically to secure storage immediately upon shutter press. Stamping occurs safely after. Even if the phone dies or the app closes, your photo is preserved.
+### Does Shotproof work when there is no cell service on site?
+Yes. GPS satellite location, device altitude, compass direction, and camera capture operate 100% offline. Shotproof logs the exact coordinates and automatically resolves the human-readable street address as soon as you reconnect to Wi-Fi or cellular service.
 
-### Does Shotproof work offline?
-Yes. GPS coordinates, date, and local time work 100% offline. If cellular or Wi-Fi is unavailable at a rural job site, the photo is captured immediately with coordinates and marked "Address pending." When your phone regains connection, the street address is resolved and the stamp is automatically re-rendered.
+### What happens if my phone dies while taking a photo?
+Shotproof utilizes an atomic write pipeline: the raw sensor capture is flushed to permanent flash memory before post-processing and watermarking begin. Your photo is safe even if the phone powers down immediately after the shutter clicks.
 
-### What is a Job Site and how does it make addresses accurate?
-Standard phone geocoders can occasionally guess the wrong house number or adjacent parcel. In Shotproof, you can tap **Fix Address** to drop a pin on the exact building or entrance. Once saved as a Job Site, any photo taken within 150 meters automatically uses your verified address.
+### Can I include my company's logo on photos and reports?
+Yes. Shotproof Pro allows you to upload your company logo and customize whether it appears on individual photo watermarks, formal PDF report headers, or both.
 
-### Can I edit the address or note after taking a photo?
-Yes. If you need to update a note or refine an address, you can edit it in the gallery. Because Shotproof preserves the original capture, it re-renders the stamped JPEG instantly.
+### How does Shotproof detect device clock tampering?
+Shotproof queries standard network time servers to verify true UTC time whenever network access is available. If an iPhone's internal clock has been manually altered to backdate photos, Shotproof flags the clock discrepancy in the metadata report.
 
-### Will the stamp stay on my photos when moved to a PC or Mac?
-Yes. Unlike apps that apply temporary metadata or iOS photo adjustments, Shotproof burns the stamp directly into a new, standard sRGB JPEG file. Opening the photo in Windows, Mac Preview, or third-party web portals displays the stamp permanently.
+### Can I organize photos by project or job site?
+Yes. You can create distinct Job Sites (e.g. "742 Evergreen Terrace Remodel" or "Pier 14 Structural Inspection"). All photos taken for that project stay neatly organized with dedicated tags and exportable report packages.
 
-### Why does the camera make a shutter sound?
-Apple iOS triggers a shutter sound unless the physical ring/silent switch on your device is set to silent. In certain regions (such as Japan and South Korea), local laws mandate that camera sounds always play.
+---
 
-### What does "Network-Verified Time" mean?
-When online, Shotproof verifies the real UTC time from public time servers and ties it to hardware system uptime. If someone changes the device clock to falsify a timestamp, Shotproof detects the offset, stamps the true time, and notes the clock discrepancy in your job report.
-
-### What are Independent Timestamp Certificates (RFC 3161)?
-Shotproof Pro can send a cryptographic SHA-256 fingerprint (hash) of your photo to an independent public Time Stamping Authority (such as DigiCert or Sectigo). The authority signs a certificate proving that your exact photo existed at that precise second. You can verify this certificate independently on any computer using OpenSSL (`openssl ts -verify`).
-
-### Is there a free trial?
-Yes, the yearly plan starts with 1 free month if your Apple Account hasn't used it before; the paywall shows it only when it applies. You are charged when the free month ends unless you cancel at least 24 hours before, in **Settings › Apple Account › Subscriptions**. Shotproof reminds you 2 days before the free month ends (turn this off in **Profile**). The monthly plan has no trial.
-
-### How do I restore my purchase?
-Go to **Profile → Restore Purchases**. If you previously purchased a subscription with your Apple Account, it will activate immediately.
-
-[Privacy Policy](privacy/)
+## Documentation & Support
+- [Privacy Policy](privacy/)
+- [Support & FAQ](support/)
+- **Contact:** [shubhamn910@gmail.com](mailto:shubhamn910@gmail.com)
