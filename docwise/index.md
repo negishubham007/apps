@@ -17,9 +17,9 @@ Docwise is the paperwork app for iPhone and iPad. Sign a PDF, fill in a form, sc
 </p>
 
 <div style="display: flex; gap: 14px; overflow-x: auto; padding: 16px 0; margin: 24px 0;">
-  <img src="screenshot-1.png" alt="Docwise Page Manager with scan filters, page reordering and rotation" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
-  <img src="screenshot-2.png" alt="Docwise Shrink File screen with size units, JPEG or PDF output and KB presets" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
-  <img src="screenshot-4.png" alt="Docwise Passport and Visa Photo screen with face guide and background replacement" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+  <img src="screenshot-1.png" alt="Docwise: sign contracts offline in seconds" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+  <img src="screenshot-2.png" alt="Docwise: shrink files under a target size in KB" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
+  <img src="screenshot-3.png" alt="Docwise: official passport photos at home" style="width: 220px; border-radius: 18px; border: 1px solid #8883; flex-shrink: 0;" />
 </div>
 
 ---
